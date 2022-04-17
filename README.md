@@ -1,2 +1,2 @@
 # dev-textures
-As far as im concerned the best rendition of dev texture swapping for TF2.
+A version of the dev textures mod that fixes common issues.
